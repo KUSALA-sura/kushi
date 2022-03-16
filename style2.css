@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Courier New', Courier, monospacer;
+    background: url("./images/corn.png") no-repeat center center/cover;
+}
+
+td{
+    font-weight: bold;
+}
+.btn{
+    width: 100px;
+}
